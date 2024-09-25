@@ -1,0 +1,21 @@
+{
+  "name": "pw-td1",
+  "module": "src/start.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "bun run --watch src/start.ts",
+    "start": "bun src/start.ts"
+  },
+  "dependencies": {
+    "@types/uuid": "^10.0.0",
+    "@types/validator": "^13.12.2",
+    "uuid": "^10.0.0",
+    "validator": "^13.12.0"
+  }
+}
