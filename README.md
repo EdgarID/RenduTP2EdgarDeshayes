@@ -1,4 +1,4 @@
-# td2 Deshayes Edgar
+# td2 sans Polymorphisme Deshayes Edgar
 
 To install dependencies:
 
